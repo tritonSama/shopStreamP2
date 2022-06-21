@@ -1,0 +1,168 @@
+2022-05-23 10:33:16.272 -05:00 [INF] User adding a new customer
+2022-05-23 13:17:28.753 -05:00 [INF] User is exiting
+2022-05-23 13:17:45.921 -05:00 [INF] User adding a new customer
+2022-05-23 14:08:53.114 -05:00 [INF] User searching for a customer
+2022-05-23 14:09:00.796 -05:00 [INF] User went to main menu
+2022-05-23 14:09:13.165 -05:00 [INF] User searching for a customer
+2022-05-23 14:09:28.761 -05:00 [INF] User searching for a customer
+2022-05-23 14:09:37.637 -05:00 [INF] User went to main menu
+2022-05-23 14:10:13.768 -05:00 [INF] User is exiting
+2022-05-23 14:10:19.539 -05:00 [INF] User searching for a customer
+2022-05-23 14:10:56.399 -05:00 [INF] User went to main menu
+2022-05-23 14:10:58.481 -05:00 [INF] User is exiting
+2022-05-23 14:11:02.736 -05:00 [INF] User searching for a customer
+2022-05-23 14:11:25.307 -05:00 [INF] User searching for a customer
+2022-05-23 14:12:56.646 -05:00 [INF] User veiwing items of a customer
+2022-05-23 14:19:34.329 -05:00 [INF] User searching for a customer
+2022-05-23 14:19:51.012 -05:00 [INF] User is selectiong a item
+2022-05-23 14:38:44.508 -05:00 [INF] User searching for a customer
+2022-05-23 14:38:56.000 -05:00 [INF] User is selectiong a item
+2022-05-23 14:49:29.198 -05:00 [INF] User searching for a customer
+2022-05-23 14:49:39.288 -05:00 [INF] User is selectiong a item
+2022-05-23 14:50:55.015 -05:00 [INF] User adding a new customer
+2022-05-23 16:26:33.648 -05:00 [INF] User adding a new customer
+2022-05-23 16:34:36.027 -05:00 [INF] User searching for a customer
+2022-05-23 18:33:27.271 -05:00 [INF] User adding a new customer
+2022-05-23 18:46:18.031 -05:00 [INF] User adding a new customer
+2022-05-23 19:30:47.236 -05:00 [INF] User adding a new customer
+2022-05-23 19:40:50.198 -05:00 [INF] User adding a new customer
+2022-05-23 19:42:18.240 -05:00 [INF] User adding a new customer
+2022-05-23 19:53:50.788 -05:00 [INF] User adding a new customer
+2022-05-23 19:55:50.371 -05:00 [INF] User adding a new customer
+2022-05-23 20:00:22.636 -05:00 [INF] User adding a new customer
+2022-05-23 20:00:33.367 -05:00 [INF] User is exiting
+2022-05-23 20:01:20.414 -05:00 [INF] User searching for a customer
+2022-05-23 20:10:01.305 -05:00 [INF] User is selectiong a item
+2022-05-23 20:13:07.559 -05:00 [INF] User searching for a customer
+2022-05-23 20:13:18.055 -05:00 [INF] User is selectiong a item
+2022-05-23 21:51:50.443 -05:00 [INF] User searching for a customer
+2022-05-23 21:52:01.109 -05:00 [INF] User is selectiong a item
+2022-05-24 12:57:47.673 -05:00 [INF] User adding a new customer
+2022-05-24 13:16:14.972 -05:00 [INF] User searching for a customer
+2022-05-24 13:16:26.730 -05:00 [INF] User is selectiong a item
+2022-05-24 13:23:22.324 -05:00 [INF] User searching for a customer
+2022-05-24 13:23:43.264 -05:00 [INF] User is selectiong a item
+2022-05-24 13:37:25.551 -05:00 [INF] User searching for a customer
+2022-05-24 13:37:34.718 -05:00 [INF] User is selectiong a item
+2022-05-24 13:43:10.821 -05:00 [INF] User searching for a customer
+2022-05-24 13:43:18.423 -05:00 [INF] User is selectiong a item
+2022-05-24 14:04:07.196 -05:00 [INF] User searching for a customer
+2022-05-24 14:04:16.358 -05:00 [INF] User is selectiong a item
+2022-05-24 14:04:42.665 -05:00 [INF] User searching for a customer
+2022-05-24 14:04:51.275 -05:00 [INF] User is selectiong a item
+2022-05-24 14:05:12.032 -05:00 [INF] User went to main menu
+2022-05-24 14:05:16.079 -05:00 [INF] User adding a new customer
+2022-05-24 14:07:57.959 -05:00 [INF] User adding a new customer
+2022-05-24 14:08:10.325 -05:00 [INF] User went to main menu
+2022-05-24 14:09:25.180 -05:00 [INF] User searching for a customer
+2022-05-24 14:10:21.905 -05:00 [INF] User went to main menu
+2022-05-24 14:10:25.120 -05:00 [INF] User going to admin menu(secret menu)
+2022-05-24 14:10:36.450 -05:00 [INF] User went to main menu
+2022-05-24 14:10:55.697 -05:00 [INF] User searching for a customer
+2022-05-24 14:11:06.577 -05:00 [INF] User searching for a customer
+2022-05-24 14:11:17.763 -05:00 [INF] User is selectiong a item
+2022-05-24 14:21:43.330 -05:00 [INF] User searching for a customer
+2022-05-24 14:21:53.262 -05:00 [INF] User is selectiong a item
+2022-05-24 14:24:14.902 -05:00 [INF] User searching for a customer
+2022-05-24 14:24:22.717 -05:00 [INF] User is selectiong a item
+2022-05-24 14:26:29.534 -05:00 [INF] User searching for a customer
+2022-05-24 14:26:40.732 -05:00 [INF] User is selectiong a item
+2022-05-24 14:28:09.208 -05:00 [INF] User is selectiong a item
+2022-05-24 14:28:56.068 -05:00 [INF] User searching for a customer
+2022-05-24 14:29:05.926 -05:00 [INF] User is selectiong a item
+2022-05-24 14:30:43.615 -05:00 [INF] User going to admin menu(secret menu)
+2022-05-24 14:31:46.443 -05:00 [INF] User going to admin menu(secret menu)
+2022-05-24 14:31:51.053 -05:00 [INF] User going to admin menu(secret menu)
+2022-05-24 14:33:00.163 -05:00 [INF] User went to main menu
+2022-05-24 14:33:01.929 -05:00 [INF] User is exiting
+2022-05-24 14:33:07.847 -05:00 [INF] User going to admin menu(secret menu)
+2022-05-24 14:33:25.704 -05:00 [INF] User is adding a new item
+2022-05-24 14:59:19.399 -05:00 [INF] User going to admin menu(secret menu)
+2022-05-24 15:00:02.505 -05:00 [INF] User going to admin menu(secret menu)
+2022-05-24 15:00:10.875 -05:00 [INF] User going to admin menu(secret menu)
+2022-05-24 15:00:16.014 -05:00 [INF] senpai is looking at the item list
+2022-05-24 15:19:57.382 -05:00 [INF] User going to admin menu(secret menu)
+2022-05-24 15:20:01.847 -05:00 [INF] senpai is looking at the item list
+2022-05-24 15:25:33.210 -05:00 [INF] User is adding a new item
+2022-05-24 15:27:38.362 -05:00 [INF] User going to admin menu(secret menu)
+2022-05-24 15:27:41.615 -05:00 [INF] senpai is looking at the item list
+2022-05-24 15:27:47.967 -05:00 [INF] User is adding a new item
+2022-05-24 15:30:51.559 -05:00 [INF] User going to admin menu(secret menu)
+2022-05-24 15:30:56.052 -05:00 [INF] senpai is looking at the item list
+2022-05-24 15:35:21.525 -05:00 [INF] senpai is looking at the item list
+2022-05-24 15:35:28.053 -05:00 [INF] senpai is looking at the item list
+2022-05-24 15:36:02.176 -05:00 [INF] senpai is looking at the item list
+2022-05-24 15:36:09.183 -05:00 [INF] senpai is looking at the item list
+2022-05-24 15:36:17.131 -05:00 [INF] User went to main menu
+2022-05-24 15:36:26.414 -05:00 [INF] User went to main menu
+2022-05-24 15:36:31.537 -05:00 [INF] User going to admin menu(secret menu)
+2022-05-24 15:36:36.470 -05:00 [INF] senpai is looking at the item list
+2022-05-24 15:37:12.211 -05:00 [INF] senpai is looking at the item list
+2022-05-24 15:37:14.435 -05:00 [INF] senpai is looking at the item list
+2022-05-24 15:37:23.695 -05:00 [INF] senpai is looking at the item list
+2022-05-24 15:37:26.228 -05:00 [INF] User went to main menu
+2022-05-24 15:37:35.664 -05:00 [INF] User is exiting
+2022-05-24 15:37:40.859 -05:00 [INF] User searching for a customer
+2022-05-24 15:37:58.565 -05:00 [INF] User is selectiong a item
+2022-05-24 16:38:04.975 -05:00 [INF] User went to main menu
+2022-05-24 16:38:14.040 -05:00 [INF] User searching for a customer
+2022-05-24 16:38:24.521 -05:00 [INF] User is selectiong a item
+2022-05-24 16:44:26.658 -05:00 [INF] User went to main menu
+2022-05-24 16:44:33.378 -05:00 [INF] User searching for a customer
+2022-05-24 16:44:47.914 -05:00 [INF] User is selectiong a item
+2022-05-24 16:45:55.581 -05:00 [INF] User went to main menu
+2022-05-24 16:46:09.023 -05:00 [INF] User went to main menu
+2022-05-24 16:46:13.983 -05:00 [INF] User searching for a customer
+2022-05-24 16:46:17.592 -05:00 [INF] User searching for a customer
+2022-05-24 17:15:22.079 -05:00 [INF] User searching for a customer
+2022-05-24 17:15:31.152 -05:00 [INF] User is selectiong a item
+2022-05-24 17:32:44.771 -05:00 [INF] User searching for a customer
+2022-05-24 17:32:52.448 -05:00 [INF] User is selectiong a item
+2022-05-24 20:37:24.617 -05:00 [INF] User went to main menu
+2022-05-24 20:37:34.608 -05:00 [INF] User adding a new customer
+2022-05-24 20:37:56.907 -05:00 [INF] User went to main menu
+2022-05-24 20:38:04.442 -05:00 [INF] User searching for a customer
+2022-05-24 20:38:15.220 -05:00 [INF] User is selectiong a item
+2022-05-24 20:39:01.726 -05:00 [INF] User went to main menu
+2022-05-24 20:39:08.021 -05:00 [INF] User is exiting
+2022-05-24 20:39:16.082 -05:00 [INF] User going to admin menu(secret menu)
+2022-05-24 20:39:29.697 -05:00 [INF] User going to admin menu(secret menu)
+2022-05-24 20:39:31.646 -05:00 [INF] User going to admin menu(secret menu)
+2022-05-24 20:39:34.055 -05:00 [INF] senpai is looking at the item list
+2022-05-24 20:39:48.425 -05:00 [INF] User went to main menu
+2022-05-24 20:39:52.381 -05:00 [INF] User going to admin menu(secret menu)
+2022-05-24 20:39:55.274 -05:00 [INF] senpai is looking at the item list
+2022-05-24 20:39:59.809 -05:00 [INF] User is adding a new item
+2022-05-24 20:55:59.769 -05:00 [INF] User going to admin menu(secret menu)
+2022-05-24 20:56:14.262 -05:00 [INF] User is adding a new item
+2022-05-24 20:59:40.542 -05:00 [INF] User going to admin menu(secret menu)
+2022-05-24 20:59:45.918 -05:00 [INF] senpai is looking at the item list
+2022-05-24 21:20:45.364 -05:00 [INF] User went to main menu
+2022-05-24 21:20:48.410 -05:00 [INF] User searching for a customer
+2022-05-25 09:31:42.779 -05:00 [INF] User searching for a customer
+2022-05-25 09:32:06.299 -05:00 [INF] User is selectiong a item
+2022-05-25 09:32:45.646 -05:00 [INF] User went to main menu
+2022-05-25 09:32:49.901 -05:00 [INF] User adding a new customer
+2022-05-25 09:33:15.094 -05:00 [INF] User went to main menu
+2022-05-25 09:33:21.516 -05:00 [INF] User searching for a customer
+2022-05-25 09:33:39.713 -05:00 [INF] User searching for a customer
+2022-05-25 09:34:40.040 -05:00 [INF] User went to main menu
+2022-05-25 09:35:06.047 -05:00 [INF] User going to admin menu(secret menu)
+2022-05-25 09:35:16.786 -05:00 [INF] senpai is looking at the item list
+2022-05-25 09:35:24.752 -05:00 [INF] User is adding a new item
+2022-05-25 09:35:47.547 -05:00 [INF] User going to admin menu(secret menu)
+2022-05-25 09:35:53.645 -05:00 [INF] senpai is looking at the item list
+2022-05-25 09:36:02.124 -05:00 [INF] User went to main menu
+2022-05-25 09:36:19.582 -05:00 [INF] User is exiting
+2022-05-25 09:37:48.823 -05:00 [INF] User searching for a customer
+2022-05-25 09:37:54.706 -05:00 [INF] User searching for a customer
+2022-05-25 09:43:53.554 -05:00 [INF] User went to main menu
+2022-05-25 09:43:55.680 -05:00 [INF] User going to admin menu(secret menu)
+2022-06-01 11:48:05.320 -05:00 [INF] User searching for a customer
+2022-06-01 11:48:32.604 -05:00 [INF] User is selectiong a item
+2022-06-01 11:48:41.427 -05:00 [INF] User went to main menu
+2022-06-01 11:48:43.640 -05:00 [INF] User searching for a customer
+2022-06-01 11:49:04.112 -05:00 [INF] User searching for a customer
+2022-06-17 20:07:51.175 -05:00 [INF] User searching for a customer
+2022-06-17 20:08:09.169 -05:00 [INF] User searching for a customer
+2022-06-17 20:12:39.553 -05:00 [INF] User searching for a customer
