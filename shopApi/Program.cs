@@ -11,11 +11,11 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddScoped<iRepository<Customer>, SQLCustomerRepository>(repo => new SQLCustomerRepository(builder.Configuration.GetConnectionString("Joshua Henry")));
+builder.Services.AddScoped<iRepository<Customer>, SQLCustomerRepository>(repo => new SQLCustomerRepository(Environment.GetEnvironmentVariable("Connection_String")));
 builder.Services.AddScoped<iCustomerBL, CustomerBL>();
-builder.Services.AddScoped<iRepository<CustomerItemJoin>, SQLCustItemJoinRepo>(repo => new SQLCustItemJoinRepo(builder.Configuration.GetConnectionString("Joshua Henry")));
+builder.Services.AddScoped<iRepository<CustomerItemJoin>, SQLCustItemJoinRepo>(repo => new SQLCustItemJoinRepo(Environment.GetEnvironmentVariable("Connection_String")));
 builder.Services.AddScoped<iCustItemJoinBL, CustItemJoinBL>();
-builder.Services.AddScoped<iRepository<Item>, SQLItemRepository>(repo => new SQLItemRepository(builder.Configuration.GetConnectionString("Joshua Henry")));
+builder.Services.AddScoped<iRepository<Item>, SQLItemRepository>(repo => new SQLItemRepository(Environment.GetEnvironmentVariable("Connection_String")));
 builder.Services.AddScoped<iItemBL, ItemBL>();
 
 var app = builder.Build();
