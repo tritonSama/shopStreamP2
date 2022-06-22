@@ -3,8 +3,9 @@ version: 0.2
 phases: 
   install:
     commands :
-      - echo 'installing dotnet 6'
+      - echo 'Installing dotnet 6'
       - /usr/local/bin/dotnet-install.sh --channel LTS
+      
   pre_build:
     commands: 
       - echo 'Restoring dependencies of each project (the packages) and unit testings'
