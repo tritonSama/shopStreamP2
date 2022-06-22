@@ -4,7 +4,17 @@ using shopModel;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// Adding CORS to allow all origins to have access to our backend
+builder.Services.AddCors(
+    (options) => {
+        //We configured our CORS to allow anyone to do anything with our backend
+        options.AddDefaultPolicy(origin => {
+            origin.AllowAnyOrigin(); //Allows any origin to talk to our backend
+            origin.AllowAnyMethod(); //Allows any http verb request in our backend
+            origin.AllowAnyHeader(); //Allows any http headers to have access to my backend
+        });
+    }
+);
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -26,6 +36,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseCors();
 
 app.UseHttpsRedirection();
 
